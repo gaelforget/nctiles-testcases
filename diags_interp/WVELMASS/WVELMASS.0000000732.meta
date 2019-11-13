@@ -1,0 +1,12 @@
+nDims = [   3 ];
+ dimList = [
+   720,     1,   720,
+   360,     1,   360,
+    50,     1,    50,
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [     1 ];
+ nFlds = [   1 ];
+ fldList = {
+ 'WVELMASS' 
+ };
