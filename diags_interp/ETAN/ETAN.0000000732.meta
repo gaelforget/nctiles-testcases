@@ -1,0 +1,11 @@
+nDims = [   2 ];
+ dimList = [
+   720,     1,   720,
+   360,     1,   360,
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [     1 ];
+ nFlds = [   1 ];
+ fldList = {
+ 'ETAN' 
+ };

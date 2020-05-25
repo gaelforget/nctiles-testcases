@@ -1,0 +1,15 @@
+ nDims = [   2 ];
+ dimList = [
+    90,    1,   90,
+  1170,    1, 1170
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [    25 ];
+ timeStepNumber = [       1428 ];
+ timeInterval = [  2.635200000000E+06  5.140800000000E+06 ];
+ missingValue = [ -9.99000000000000E+02 ];
+ nFlds = [   25 ];
+ fldList = {
+ 'ETAN    ' 'SIarea  ' 'SIheff  ' 'SIhsnow ' 'DETADT2 ' 'PHIBOT  ' 'sIceLoad' 'MXLDEPTH' 'oceSPDep' 'SIatmQnt' 'SIatmFW ' 'oceQnet ' 'oceFWflx' 'oceTAUX ' 'oceTAUY ' 'ADVxHEFF' 'ADVyHEFF' 'DFxEHEFF' 'DFyEHEFF' 'ADVxSNOW'
+ 'ADVySNOW' 'DFxESNOW' 'DFyESNOW' 'SIuice  ' 'SIvice  '
+ };
