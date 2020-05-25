@@ -1,6 +1,8 @@
 # nctiles-testcases
 
-[![DOI](https://zenodo.org/badge/221528479.svg)](https://zenodo.org/badge/latestdoi/221528479) Test cases for the `nctiles` pipelines in [NCTiles.jl](https://github.com/gaelforget/NCTiles.jl) and [gcmfaces/nctiles](https://github.com/MITgcm/gcmfaces) + sample output from the `gcmfaces` original pipeline (in `diags_nctiles/`).
+[![DOI](https://zenodo.org/badge/221528479.svg)](https://zenodo.org/badge/latestdoi/221528479) 
+
+Test cases for the `nctiles` pipelines in [NCTiles.jl](https://github.com/gaelforget/NCTiles.jl) and [gcmfaces/nctiles](https://github.com/MITgcm/gcmfaces) + sample output from the `gcmfaces` original pipeline (in `diags_nctiles/`).
 
 
 - `README` global attribute example
